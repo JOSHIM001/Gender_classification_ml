@@ -9,7 +9,13 @@ This project applies various supervised machine learning models to classify gend
 - `gender_classification.ipynb` — Main Jupyter Notebook with the full ML pipeline
 - `README.md` — Project documentation
 
-*(Add your dataset file if it’s small, or link it if large)*
+## 🗃️ Dataset
+
+The dataset `gender_classification_v7.csv` contains features used to classify gender.  
+It is included in this repository for easy access and testing.
+
+Example features: height, weight, voice pitch, etc. *(Adjust based on actual features)*
+
 
 ---
 
