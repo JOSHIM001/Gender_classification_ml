@@ -67,7 +67,7 @@ This project applies various supervised machine learning models to classify gend
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gender-classification-ml.git
+   git clone https://github.com/JOSHIM001/gender-classification-ml.git
    cd gender-classification-ml
 2. jupyter notebook gender_classification.ipynb
 3. Run all cell in order
